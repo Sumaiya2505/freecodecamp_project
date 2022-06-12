@@ -1,0 +1,63 @@
+#main{
+   background-color:Gainsboro;
+}
+
+#title{
+  text-align:center;
+  font-family: Sans-serif;
+}
+#img-div{
+  background-color:white;
+  align-text:center;
+  margin-left:20px;
+  margin-right:20px;
+ }
+#image{
+  align:center;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  }
+#img-caption{
+  text-align:center;
+  padding:10px;
+  font-style:Normal;
+  font-size:19px;
+  
+}
+#tribute-info{
+   font-family: Sans-serif;
+   text-align:justify;
+   word-spacing:03px;
+   margin-left:300px;
+   margin-right:250px;
+   font-size:19px;
+   
+   
+  }
+#p{
+  margin-left:300px;
+  margin-right:250px;
+  font-style:oblique;
+  font-size:19px;
+  word-spacing:03px;
+}
+
+#tribute-link{
+  target="_blank";
+  font-weight:bold;
+  }
+
+#center{
+  text-align:center;
+  font-family: Sans-serif;
+  font-size:19px;
+}
+
+#a{
+  text-align:center;
+  font-weight:bold;
+  font-size:20px;
+  padding:50px;
+  font-style:Sans-serif;
+}
